@@ -1,17 +1,17 @@
-﻿# $([char]0x1F44B) Obvious Bubbles
+# 👋 Obvious Bubbles
 
 Somos uma agência de web design e marketing digital em Portugal.
 
-$([char]0x1F310) [obviousbubbles.pt](https://obviousbubbles.pt)
+🌐 [obviousbubbles.pt](https://obviousbubbles.pt)
 
 ## O que fazemos
 
-- $([char]0x1F3A8) **Criação de Sites** — Websites rápidos, modernos e optimizados para SEO
-- $([char]0x1F6D2) **Lojas Online** — E-commerce com Shopify, WooCommerce ou soluções custom
-- $([char]0x1F4C8) **SEO & Marketing Digital** — Estratégia de conteúdo e posicionamento orgânico
-- $([char]0x26A1) **Performance Web** — Sites que carregam em menos de 1 segundo
-- $([char]0x1F4E7) **Email Marketing** — Campanhas automatizadas e segmentadas
-- $([char]0x1F4E2) **Publicidade Online** — Google Ads, Meta Ads e campanhas pagas
+- 🎨 **Criação de Sites** — Websites rápidos, modernos e optimizados para SEO
+- 🛒 **Lojas Online** — E-commerce com Shopify, WooCommerce ou soluções custom
+- 📈 **SEO & Marketing Digital** — Estratégia de conteúdo e posicionamento orgânico
+- ⚡ **Performance Web** — Sites que carregam em menos de 1 segundo
+- 📧 **Email Marketing** — Campanhas automatizadas e segmentadas
+- 📢 **Publicidade Online** — Google Ads, Meta Ads e campanhas pagas
 
 ## Tech Stack
 
@@ -23,4 +23,4 @@ $([char]0x1F310) [obviousbubbles.pt](https://obviousbubbles.pt)
 
 ---
 
-$([char]0x1F4E7) hello@obviousbubbles.pt | $([char]0x1F310) [obviousbubbles.pt](https://obviousbubbles.pt)
+📧 hello@obviousbubbles.pt | 🌐 [obviousbubbles.pt](https://obviousbubbles.pt)
